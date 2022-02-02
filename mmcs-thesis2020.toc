@@ -1,20 +1,21 @@
 \babel@toc {russian}{}
 \contentsline {section}{Постановка задачи}{3}%
 \contentsline {section}{Введение}{4}%
-\contentsline {section}{\numberline {1.\relax }Входные данные и их преобразование}{5}%
-\contentsline {section}{\numberline {2.\relax }Модели}{6}%
-\contentsline {subsection}{\numberline {2.1.\relax }TopN}{7}%
-\contentsline {subsection}{\numberline {2.2.\relax }ALS}{7}%
-\contentsline {subsection}{\numberline {2.3.\relax }AE}{8}%
-\contentsline {subsection}{\numberline {2.4.\relax }IP}{9}%
-\contentsline {subsection}{\numberline {2.5.\relax }UIP}{9}%
-\contentsline {subsection}{\numberline {2.6.\relax }DRN}{10}%
-\contentsline {subsection}{\numberline {2.7.\relax }Сравнительный анализ моделей}{10}%
-\contentsline {section}{\numberline {3.\relax }Описание полученных результатов}{12}%
-\contentsline {subsection}{\numberline {3.1.\relax }Рекомендуемые объёмы работ}{13}%
-\contentsline {subsection}{\numberline {3.2.\relax }Вставка изображений и таблиц}{13}%
-\contentsline {subsection}{\numberline {3.3.\relax }Фрагменты исходного кода}{13}%
-\contentsline {subsubsection}{\numberline {3.3.1.\relax }Примеры фрагментов кода}{14}%
-\contentsline {section}{\numberline {4.\relax }Примеры оформления формул}{15}%
-\contentsline {section}{Заключение}{16}%
-\contentsline {section}{Литература}{17}%
+\contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}%
+\contentsline {section}{\numberline {2.\relax }Модели}{7}%
+\contentsline {subsection}{\numberline {2.1.\relax }TopN}{8}%
+\contentsline {subsection}{\numberline {2.2.\relax }ALS}{8}%
+\contentsline {subsection}{\numberline {2.3.\relax }AE}{9}%
+\contentsline {subsection}{\numberline {2.4.\relax }IP}{10}%
+\contentsline {subsection}{\numberline {2.5.\relax }UIP}{10}%
+\contentsline {subsection}{\numberline {2.6.\relax }DRN}{11}%
+\contentsline {subsection}{\numberline {2.7.\relax }Сравнительный анализ моделей}{11}%
+\contentsline {section}{\numberline {3.\relax }Финальные рекомендации}{12}%
+\contentsline {section}{\numberline {4.\relax }Описание полученных результатов}{14}%
+\contentsline {subsection}{\numberline {4.1.\relax }Рекомендуемые объёмы работ}{15}%
+\contentsline {subsection}{\numberline {4.2.\relax }Вставка изображений и таблиц}{15}%
+\contentsline {subsection}{\numberline {4.3.\relax }Фрагменты исходного кода}{15}%
+\contentsline {subsubsection}{\numberline {4.3.1.\relax }Примеры фрагментов кода}{16}%
+\contentsline {section}{\numberline {5.\relax }Примеры оформления формул}{17}%
+\contentsline {section}{Заключение}{18}%
+\contentsline {section}{Литература}{19}%
