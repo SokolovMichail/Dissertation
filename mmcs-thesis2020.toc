@@ -2,14 +2,14 @@
 \contentsline {section}{Постановка задачи}{3}%
 \contentsline {section}{Введение}{4}%
 \contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}%
-\contentsline {section}{\numberline {2.\relax }Модели}{7}%
+\contentsline {section}{\numberline {2.\relax }Модели}{8}%
 \contentsline {subsection}{\numberline {2.1.\relax }TopN}{8}%
 \contentsline {subsection}{\numberline {2.2.\relax }ALS}{8}%
 \contentsline {subsection}{\numberline {2.3.\relax }AE}{9}%
 \contentsline {subsection}{\numberline {2.4.\relax }IP}{10}%
-\contentsline {subsection}{\numberline {2.5.\relax }UIP}{10}%
+\contentsline {subsection}{\numberline {2.5.\relax }UIP}{11}%
 \contentsline {subsection}{\numberline {2.6.\relax }DRN}{11}%
-\contentsline {subsection}{\numberline {2.7.\relax }Сравнительный анализ моделей}{11}%
+\contentsline {subsection}{\numberline {2.7.\relax }Сравнительный анализ моделей}{12}%
 \contentsline {section}{\numberline {3.\relax }Финальные рекомендации}{12}%
 \contentsline {section}{\numberline {4.\relax }Описание полученных результатов}{14}%
 \contentsline {subsection}{\numberline {4.1.\relax }Рекомендуемые объёмы работ}{15}%
