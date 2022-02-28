@@ -8,9 +8,9 @@
 \contentsline {subsection}{\numberline {2.3.\relax }ALS}{10}{}%
 \contentsline {subsection}{\numberline {2.4.\relax }AE}{11}{}%
 \contentsline {subsection}{\numberline {2.5.\relax }IP}{12}{}%
-\contentsline {subsection}{\numberline {2.6.\relax }UIP}{12}{}%
+\contentsline {subsection}{\numberline {2.6.\relax }UIP}{13}{}%
 \contentsline {subsection}{\numberline {2.7.\relax }DRN}{13}{}%
-\contentsline {subsection}{\numberline {2.8.\relax }Сравнительный анализ моделей}{13}{}%
+\contentsline {subsection}{\numberline {2.8.\relax }Сравнительный анализ моделей}{14}{}%
 \contentsline {section}{\numberline {3.\relax }Финальные рекомендации}{14}{}%
 \contentsline {section}{Заключение}{16}{}%
 \contentsline {section}{Литература}{17}{}%
