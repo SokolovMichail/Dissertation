@@ -1,17 +1,18 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{Постановка задачи}{3}{}%
-\contentsline {section}{Введение}{4}{}%
-\contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}{}%
-\contentsline {section}{\numberline {2.\relax }Модели}{9}{}%
-\contentsline {subsection}{\numberline {2.1.\relax }Исследование трудов по теме}{9}{}%
-\contentsline {subsection}{\numberline {2.2.\relax }Проблема холодного старта}{11}{}%
-\contentsline {subsection}{\numberline {2.3.\relax }TopN}{11}{}%
-\contentsline {subsection}{\numberline {2.4.\relax }ALS}{11}{}%
-\contentsline {subsection}{\numberline {2.5.\relax }AE}{12}{}%
-\contentsline {subsection}{\numberline {2.6.\relax }IP}{13}{}%
-\contentsline {subsection}{\numberline {2.7.\relax }UIP}{14}{}%
-\contentsline {subsection}{\numberline {2.8.\relax }DRN}{14}{}%
-\contentsline {subsection}{\numberline {2.9.\relax }Сравнительный анализ моделей}{15}{}%
-\contentsline {section}{\numberline {3.\relax }Финальные рекомендации}{15}{}%
-\contentsline {section}{Заключение}{17}{}%
-\contentsline {section}{Литература}{18}{}%
+\babel@toc {russian}{}
+\contentsline {section}{Постановка задачи}{3}%
+\contentsline {section}{Введение}{4}%
+\contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}%
+\contentsline {section}{\numberline {2.\relax }Модели}{9}%
+\contentsline {subsection}{\numberline {2.1.\relax }Исследование трудов по теме}{9}%
+\contentsline {subsection}{\numberline {2.2.\relax }Проблема холодного старта}{11}%
+\contentsline {subsection}{\numberline {2.3.\relax }Общее описание моделей}{11}%
+\contentsline {subsection}{\numberline {2.4.\relax }TopN}{11}%
+\contentsline {subsection}{\numberline {2.5.\relax }ALS}{12}%
+\contentsline {subsection}{\numberline {2.6.\relax }AE}{12}%
+\contentsline {subsection}{\numberline {2.7.\relax }IP}{14}%
+\contentsline {subsection}{\numberline {2.8.\relax }UIP}{14}%
+\contentsline {subsection}{\numberline {2.9.\relax }DRN}{14}%
+\contentsline {subsection}{\numberline {2.10.\relax }Сравнительный анализ моделей}{15}%
+\contentsline {section}{\numberline {3.\relax }Финальные рекомендации}{16}%
+\contentsline {section}{Заключение}{17}%
+\contentsline {section}{Литература}{18}%
