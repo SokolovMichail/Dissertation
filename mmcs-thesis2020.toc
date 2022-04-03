@@ -10,10 +10,10 @@
 \contentsline {subsection}{\numberline {3.4.\relax }TopN}{13}{}%
 \contentsline {subsection}{\numberline {3.5.\relax }ALS}{13}{}%
 \contentsline {subsection}{\numberline {3.6.\relax }AE}{15}{}%
-\contentsline {subsection}{\numberline {3.7.\relax }IP}{17}{}%
-\contentsline {subsection}{\numberline {3.8.\relax }UIP}{17}{}%
+\contentsline {subsection}{\numberline {3.7.\relax }IP}{16}{}%
+\contentsline {subsection}{\numberline {3.8.\relax }UIP}{16}{}%
 \contentsline {subsection}{\numberline {3.9.\relax }DRN}{17}{}%
-\contentsline {subsection}{\numberline {3.10.\relax }Сравнительный анализ моделей}{18}{}%
-\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{19}{}%
+\contentsline {subsection}{\numberline {3.10.\relax }Сравнительный анализ моделей}{17}{}%
+\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{18}{}%
 \contentsline {section}{Заключение}{20}{}%
 \contentsline {section}{Литература}{21}{}%
