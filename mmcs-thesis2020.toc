@@ -8,12 +8,12 @@
 \contentsline {subsection}{\numberline {3.2.\relax }Проблема холодного старта}{12}{}%
 \contentsline {subsection}{\numberline {3.3.\relax }Общее описание моделей}{13}{}%
 \contentsline {subsection}{\numberline {3.4.\relax }TopN}{13}{}%
-\contentsline {subsection}{\numberline {3.5.\relax }ALS}{13}{}%
-\contentsline {subsection}{\numberline {3.6.\relax }AE}{15}{}%
-\contentsline {subsection}{\numberline {3.7.\relax }IP}{17}{}%
-\contentsline {subsection}{\numberline {3.8.\relax }UIP}{17}{}%
-\contentsline {subsection}{\numberline {3.9.\relax }DRN}{17}{}%
-\contentsline {subsection}{\numberline {3.10.\relax }Сравнительный анализ моделей}{18}{}%
-\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{19}{}%
-\contentsline {section}{Заключение}{20}{}%
-\contentsline {section}{Литература}{21}{}%
+\contentsline {subsection}{\numberline {3.5.\relax }ALS}{14}{}%
+\contentsline {subsection}{\numberline {3.6.\relax }AE}{16}{}%
+\contentsline {subsection}{\numberline {3.7.\relax }IP}{18}{}%
+\contentsline {subsection}{\numberline {3.8.\relax }UIP}{18}{}%
+\contentsline {subsection}{\numberline {3.9.\relax }DRN}{18}{}%
+\contentsline {subsection}{\numberline {3.10.\relax }Сравнительный анализ моделей}{19}{}%
+\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{20}{}%
+\contentsline {section}{Заключение}{21}{}%
+\contentsline {section}{Литература}{22}{}%
