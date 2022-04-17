@@ -1,22 +1,22 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{Постановка задачи}{3}{}%
 \contentsline {section}{Введение}{4}{}%
-\contentsline {section}{\numberline {1.\relax }Explicit Feedback и Implicit Feedback}{5}{}%
-\contentsline {section}{\numberline {2.\relax }Входные данные. EDA}{6}{}%
+\contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}{}%
+\contentsline {section}{\numberline {2.\relax }Explicit Feedback и Implicit Feedback}{7}{}%
 \contentsline {section}{\numberline {3.\relax }Теоретическая часть}{11}{}%
 \contentsline {subsection}{\numberline {3.1.\relax }Исследование трудов по теме}{11}{}%
-\contentsline {subsection}{\numberline {3.2.\relax }Проблема холодного старта}{12}{}%
+\contentsline {subsection}{\numberline {3.2.\relax }Проблема холодного старта}{13}{}%
 \contentsline {subsection}{\numberline {3.3.\relax }Метрики оценки моделей}{13}{}%
 \contentsline {section}{\numberline {4.\relax }Модели}{14}{}%
 \contentsline {subsection}{\numberline {4.1.\relax }Общее описание моделей}{14}{}%
 \contentsline {subsection}{\numberline {4.2.\relax }TopN}{15}{}%
 \contentsline {subsection}{\numberline {4.3.\relax }ALS}{15}{}%
 \contentsline {subsection}{\numberline {4.4.\relax }BPR}{18}{}%
-\contentsline {subsection}{\numberline {4.5.\relax }AE}{18}{}%
-\contentsline {subsection}{\numberline {4.6.\relax }IP}{21}{}%
-\contentsline {subsection}{\numberline {4.7.\relax }UIP}{21}{}%
-\contentsline {subsection}{\numberline {4.8.\relax }DRN}{21}{}%
-\contentsline {subsection}{\numberline {4.9.\relax }Сравнительный анализ моделей}{22}{}%
-\contentsline {section}{\numberline {5.\relax }Создание ансамбля моделей}{23}{}%
-\contentsline {section}{Заключение}{24}{}%
-\contentsline {section}{Литература}{25}{}%
+\contentsline {subsection}{\numberline {4.5.\relax }AE}{20}{}%
+\contentsline {subsection}{\numberline {4.6.\relax }IP}{23}{}%
+\contentsline {subsection}{\numberline {4.7.\relax }UIP}{23}{}%
+\contentsline {subsection}{\numberline {4.8.\relax }DRN}{24}{}%
+\contentsline {subsection}{\numberline {4.9.\relax }Сравнительный анализ моделей}{24}{}%
+\contentsline {section}{\numberline {5.\relax }Создание ансамбля моделей}{25}{}%
+\contentsline {section}{Заключение}{27}{}%
+\contentsline {section}{Литература}{28}{}%
