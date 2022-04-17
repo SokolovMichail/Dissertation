@@ -366,7 +366,7 @@ $rel(i)$ - является ли товар на позиции $i$ релева
 Рассмотрим алгоритм работы BPR.
 Формулировка Байесовской задачи для нахождения персонализированного ранжирования для товара $  i \in I$ заключается в максимизации следующей условной вероятности:
 \begin{equation}
-	p(\theta | >_u) = p(>_u | \theta)p(\theta).
+	p(\theta | >_u) \propto p(>_u | \theta)p(\theta).
 \end{equation} 
 Здесь $\theta$ - вектор параметров модели, а $ >_U $ - это действительные предпочтения пользователя $ u $, причем предполагается, что все пользователи действуют независимо друг от друга. Кроме того, предполагается что порядок каждой пары товаров $ i,j $ является независимым от порядков других пар. Отсюда, функцию $ p(>_U | \theta) $ можно 
 переписать как:
@@ -384,6 +384,40 @@ $rel(i)$ - является ли товар на позиции $i$ релева
 \begin{equation}
 	prod_{u \in U} p(>_u | \theta) = \prod_{(u,i,j) \in D_S} p(i >_u j | \theta)
 \end{equation}
+
+Введем жесткое исполнение свойств всеобщности и антисимметричности. Для этого введем индивидуальную вероятность того, что пользователь $ u $ предпочтет товар $ i $ товару $ j $ как $p(i >_u j) = \sigma(\hat{x}_{uij}(\theta))$, где $\sigma(x) = \frac{1}{1+e^{-x}}$. Здесь $ \hat{x}_{uij}(\theta) $ - функция от вектора $\theta$ которая и описывает отношения пользователя $u$ и товаров $ i,j $. Таким образом, мы делегируем моделирование отношений внутреннему классу модели(здесь использована факторизация матриц, описанная в параграфе про ALS).  
+Для того чтобы закончить моделирование по Байесу, введем понятие "Общей плотности" $ p(\theta) $, которая является нормальным распределением с математическим ожиданием = 0 и матрицей ковариации $ \sum_{\theta} $: $p(\theta) = N(0,\sum_{\theta})$.
+Сокращая количество неизвестных переменных, представим $ \sum_{\theta} $ как $ \lambda_{\theta} I $. Тогда сформулируем Байесовский критерий оптимизации BPR-Opt:
+\begin{equation}
+	\begin{split}
+		BPR-Opt = ln(p(\theta) |  >_u) = \\
+		ln(p(>_u | \theta)p(\theta)	= \\
+		ln \prod_{(u,i,j) \in D_S} \sigma_{\hat{x_{uij}}}p(\theta) = \\ 
+		\sum_{(u,i,j \in D_S)}ln \ \sigma(\hat{x}_{uij}) + ln \  p(\theta) = \\
+		\sum_{(u,i,j \in D_S)}ln \ \sigma(\hat{x}_{uij}) - \lambda_{\theta} \parallel \theta \parallel ^ 2
+	\end{split}
+\end{equation}
+
+Рассмотрим сам алгоритм обучения LearnBPR. Это специальный алгоритм, основанный на стохастическом градиентом спуске и динамической выборке триплетов для тренировки.
+
+Найдем градиент BPR-Opt.
+\begin{multline}
+	\frac{\partial BPR-Opt}{\partial \theta} = \sum_{(u,i,j \in D_S)} \frac{\partial}{\partial \theta} ln \ \sigma(\hat{x}_{uij}) - \lambda_{\theta} \frac{\partial}{\partial \theta} \parallel \theta \parallel ^ 2 \propto \\
+	 \sum_{(u,i,j \in D_S)} \frac{- e^{-\hat{x}_{uij}}}{1 + e^{-\hat{x}_{uij}}} \frac{\partial}{\partial \theta} \hat{x}_{uij} - \lambda_{\theta} \theta
+\end{multline}
+
+Соответственно, можно записать и общий алгоритм LearnBPR.\\
+\begin{algorithm}[H]\label{al:1}
+	\caption{Предусловленный метод решения системы $Aw = b$ методом сопряженных градиентов.}
+	\KwIn{$D_S, \theta$}
+	\KwOut{$\theta$}
+	initialize $\theta$ \\
+	\While{not convergence}{
+	take $(u,i,j)$ из $D_S$ \\
+		$\theta \leftarrow \theta + \alpha (\frac{- e^{-\hat{x}_{uij}}}{1 + e^{-\hat{x}_{uij}}} \frac{\partial}{\partial \theta} \hat{x}_{uij} - \lambda_{\theta} \theta) $
+	}
+	return $\theta$
+\end{algorithm}
 
 \subsection{AE}
 Модель AE(AutoEncoder) принадлежит к классу collaborative filtering, а также является представителем semi-supervised learning. \\

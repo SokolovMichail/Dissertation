@@ -12,11 +12,11 @@
 \contentsline {subsection}{\numberline {4.2.\relax }TopN}{15}{}%
 \contentsline {subsection}{\numberline {4.3.\relax }ALS}{15}{}%
 \contentsline {subsection}{\numberline {4.4.\relax }BPR}{18}{}%
-\contentsline {subsection}{\numberline {4.5.\relax }AE}{20}{}%
-\contentsline {subsection}{\numberline {4.6.\relax }IP}{23}{}%
-\contentsline {subsection}{\numberline {4.7.\relax }UIP}{23}{}%
-\contentsline {subsection}{\numberline {4.8.\relax }DRN}{24}{}%
-\contentsline {subsection}{\numberline {4.9.\relax }Сравнительный анализ моделей}{24}{}%
-\contentsline {section}{\numberline {5.\relax }Создание ансамбля моделей}{25}{}%
-\contentsline {section}{Заключение}{27}{}%
-\contentsline {section}{Литература}{28}{}%
+\contentsline {subsection}{\numberline {4.5.\relax }AE}{22}{}%
+\contentsline {subsection}{\numberline {4.6.\relax }IP}{24}{}%
+\contentsline {subsection}{\numberline {4.7.\relax }UIP}{24}{}%
+\contentsline {subsection}{\numberline {4.8.\relax }DRN}{25}{}%
+\contentsline {subsection}{\numberline {4.9.\relax }Сравнительный анализ моделей}{26}{}%
+\contentsline {section}{\numberline {5.\relax }Создание ансамбля моделей}{26}{}%
+\contentsline {section}{Заключение}{28}{}%
+\contentsline {section}{Литература}{29}{}%
