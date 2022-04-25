@@ -2,21 +2,21 @@
 \contentsline {section}{Постановка задачи}{3}{}%
 \contentsline {section}{Введение}{4}{}%
 \contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}{}%
-\contentsline {section}{\numberline {2.\relax }Explicit Feedback и Implicit Feedback}{7}{}%
-\contentsline {section}{\numberline {3.\relax }Теоретическая часть}{10}{}%
-\contentsline {subsection}{\numberline {3.1.\relax }Исследование трудов по теме}{10}{}%
-\contentsline {subsection}{\numberline {3.2.\relax }Проблема холодного старта}{12}{}%
-\contentsline {subsection}{\numberline {3.3.\relax }Метрики оценки моделей}{13}{}%
-\contentsline {section}{\numberline {4.\relax }Модели}{14}{}%
-\contentsline {subsection}{\numberline {4.1.\relax }Общее описание моделей}{14}{}%
-\contentsline {subsection}{\numberline {4.2.\relax }TopN}{14}{}%
-\contentsline {subsection}{\numberline {4.3.\relax }ALS}{15}{}%
-\contentsline {subsection}{\numberline {4.4.\relax }BPR}{17}{}%
-\contentsline {subsection}{\numberline {4.5.\relax }AE}{21}{}%
-\contentsline {subsection}{\numberline {4.6.\relax }IP}{24}{}%
-\contentsline {subsection}{\numberline {4.7.\relax }UIP}{25}{}%
-\contentsline {subsection}{\numberline {4.8.\relax }DRN}{26}{}%
-\contentsline {subsection}{\numberline {4.9.\relax }Сравнительный анализ моделей}{26}{}%
-\contentsline {section}{\numberline {5.\relax }Создание ансамбля моделей}{27}{}%
-\contentsline {section}{Заключение}{29}{}%
-\contentsline {section}{Литература}{30}{}%
+\contentsline {subsection}{\numberline {1.1.\relax }Explicit Feedback и Implicit Feedback}{7}{}%
+\contentsline {section}{\numberline {2.\relax }Теоретическая часть}{10}{}%
+\contentsline {subsection}{\numberline {2.1.\relax }Исследование трудов по теме}{10}{}%
+\contentsline {subsection}{\numberline {2.2.\relax }Проблема холодного старта}{12}{}%
+\contentsline {subsection}{\numberline {2.3.\relax }Метрики оценки моделей}{13}{}%
+\contentsline {section}{\numberline {3.\relax }Модели}{14}{}%
+\contentsline {subsection}{\numberline {3.1.\relax }Общее описание моделей}{14}{}%
+\contentsline {subsection}{\numberline {3.2.\relax }TopN}{14}{}%
+\contentsline {subsection}{\numberline {3.3.\relax }ALS}{15}{}%
+\contentsline {subsection}{\numberline {3.4.\relax }BPR}{17}{}%
+\contentsline {subsection}{\numberline {3.5.\relax }AE}{21}{}%
+\contentsline {subsection}{\numberline {3.6.\relax }IP}{24}{}%
+\contentsline {subsection}{\numberline {3.7.\relax }UIP}{26}{}%
+\contentsline {subsection}{\numberline {3.8.\relax }DRN}{27}{}%
+\contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{27}{}%
+\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{28}{}%
+\contentsline {section}{Заключение}{30}{}%
+\contentsline {section}{Литература}{31}{}%
