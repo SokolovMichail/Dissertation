@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {3.6.\relax }IP}{24}{}%
 \contentsline {subsection}{\numberline {3.7.\relax }UIP}{28}{}%
 \contentsline {subsection}{\numberline {3.8.\relax }DRN}{29}{}%
-\contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{30}{}%
-\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{30}{}%
-\contentsline {section}{Заключение}{32}{}%
-\contentsline {section}{Литература}{33}{}%
+\contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{31}{}%
+\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{31}{}%
+\contentsline {section}{Заключение}{33}{}%
+\contentsline {section}{Литература}{34}{}%
