@@ -3,6 +3,7 @@
 \contentsline {section}{Введение}{4}{}%
 \contentsline {section}{\numberline {1.\relax }Входные данные. EDA}{5}{}%
 \contentsline {subsection}{\numberline {1.1.\relax }Explicit Feedback и Implicit Feedback}{7}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Принятые решения об использовании}{8}{}%
 \contentsline {section}{\numberline {2.\relax }Теоретическая часть}{11}{}%
 \contentsline {subsection}{\numberline {2.1.\relax }Исследование трудов по теме}{11}{}%
 \contentsline {subsection}{\numberline {2.2.\relax }Проблема холодного старта}{13}{}%
