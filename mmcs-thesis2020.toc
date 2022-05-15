@@ -3,22 +3,22 @@
 \contentsline {section}{Введение}{4}{}%
 \contentsline {section}{\numberline {1.\relax }Входные данные. Анализ исходных данных}{6}{}%
 \contentsline {subsection}{\numberline {1.1.\relax }Явная и неявная обратная связь}{8}{}%
-\contentsline {subsection}{\numberline {1.2.\relax }Принятые решения об использовании}{9}{}%
+\contentsline {subsection}{\numberline {1.2.\relax }Принятые решения об использовании}{10}{}%
 \contentsline {section}{\numberline {2.\relax }Теоретическая часть}{12}{}%
 \contentsline {subsection}{\numberline {2.1.\relax }Анализ поставленной задачи}{12}{}%
 \contentsline {subsection}{\numberline {2.2.\relax }Обзор подходов к созданию рекомендательных моделей}{13}{}%
 \contentsline {subsection}{\numberline {2.3.\relax }Проблема холодного старта}{14}{}%
 \contentsline {subsection}{\numberline {2.4.\relax }Метрики оценки моделей}{14}{}%
-\contentsline {section}{\numberline {3.\relax }Модели, используемые в системе}{15}{}%
-\contentsline {subsection}{\numberline {3.1.\relax }Общее описание моделей}{15}{}%
+\contentsline {section}{\numberline {3.\relax }Модели, используемые в системе}{16}{}%
+\contentsline {subsection}{\numberline {3.1.\relax }Общее описание моделей}{16}{}%
 \contentsline {subsection}{\numberline {3.2.\relax }Модель TopN}{16}{}%
-\contentsline {subsection}{\numberline {3.3.\relax }Модель ALS}{16}{}%
-\contentsline {subsection}{\numberline {3.4.\relax }Модель BPR}{19}{}%
-\contentsline {subsection}{\numberline {3.5.\relax } Модель AE}{23}{}%
-\contentsline {subsection}{\numberline {3.6.\relax }Модель IP}{26}{}%
-\contentsline {subsection}{\numberline {3.7.\relax }Модель UIP}{29}{}%
-\contentsline {subsection}{\numberline {3.8.\relax }Модель DRN}{30}{}%
-\contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{32}{}%
-\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{32}{}%
-\contentsline {section}{Заключение}{34}{}%
-\contentsline {section}{Литература}{35}{}%
+\contentsline {subsection}{\numberline {3.3.\relax }Модель ALS}{17}{}%
+\contentsline {subsection}{\numberline {3.4.\relax }Модель BPR}{21}{}%
+\contentsline {subsection}{\numberline {3.5.\relax } Модель AE}{24}{}%
+\contentsline {subsection}{\numberline {3.6.\relax }Модель IP}{27}{}%
+\contentsline {subsection}{\numberline {3.7.\relax }Модель UIP}{30}{}%
+\contentsline {subsection}{\numberline {3.8.\relax }Модель DRN}{31}{}%
+\contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{33}{}%
+\contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{34}{}%
+\contentsline {section}{Заключение}{35}{}%
+\contentsline {section}{Литература}{36}{}%
