@@ -126,7 +126,7 @@
 	\item Поле TotalHits может быть использовано для определения самых часто выбираемых фильтров.
 \end{enumerate}
 
-Особо следует отметить, что эти стандартизированные выгрузки данных не содержат в себе ни информации об оценках пользователями купленных товаров, то есть в наличии только неявная обратная связь. Подробнее рассмотрим отличия явной и неявной обратной связи.
+Особо следует отметить, что эти стандартизированные выгрузки данных не содержат в себе информации об оценках пользователями купленных товаров, то есть в наличии только неявная обратная связь. Подробнее рассмотрим отличия явной и неявной обратной связи.
 
 % вставить ссылку на одну из ALS статей Collaborative Filtering for Implicit Feedback Datasets
 \subsection{Явная и неявная обратная связь}
@@ -135,7 +135,7 @@
 
 Явная обратная связь - это оценки контента пользователями. Такими оценками могут быть, например, количество звезд, числовые оценки по некоторым шкалам, и даже простое нравится/не нравится, использующееся, допустим, видеохостингом YouTube.
 
-Неявная обратная связь - это любые записанные действия пользователя при взаимодействии с контентом. Просмотры товаров, история покупок, добавление товара в корзину, покупка товара - все это является одним из вариантов implicit feedback. 
+Неявная обратная связь - это любые записанные действия пользователя при взаимодействии с контентом. Просмотры товаров, добавление товара в корзину, покупка товара, история покупок, - все это является одним из вариантов implicit feedback. 
 
 Эти два типа связей значительно отличаются друг от друга по ряду характеристик.
 \begin{myenumerate}
@@ -829,76 +829,65 @@ Triplet loss layer - слой, который определяет наскол�
 % БИБЛИОГРАФИЯ
 
 \begin{thebibliography}{0}
+	
+\bibitem{INTRO:a1}
+{
+	\url{https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-keep-up-with-consumers} (дата обр. 20.05.2022)
+}
 
 \bibitem{stud:kimfalk1}{
-Ким Фальк. 
-Рекомендательные системы на практике.
-ISBN 978-5-97060-774-9
+	\textit{Фальк, К}. Рекомендательные системы на практике / пер. с англ. Д. М. Павлова. – М.:
+	ДМК Пресс, 2020. – 448 с.
 }
 
 \bibitem{implicit:all}{
-	Github reporistory of "implicit" library,
-	https://github.com/benfred/implicit,
-	обр. 2021-12-28,
+	Documentation of "implicit" \ library ~--- \url{https://benfred.github.io/implicit/} (дата обр. 10.05.2022)
 }
 
 \bibitem{ALS:CFIFD}{
-	Yifan Hu, Yehuda Koren, Chris Volinsky
-	Collaborative Filtering for Implicit Feedback Datasets,
-	DOI: 10.1109/ICDM.2008.22
+	\textit{Hu, Y., Koren, Y. , Volinsky, C.}
+	Collaborative Filtering for Implicit Feedback Datasets. // Proceedings ~--- IEEE International Conference on Data Mining, ICDM 2008. 263-272.
 }
 
 \bibitem{ALS:rwe}{
-	Gábor Takács, Domonkos Tikk,
-	Collaborative Filtering for Implicit Feedback Datasets,
-	DOI: 10.1145/2365952.2365972
+	\textit{Takács, G., Tikk, D.}
+	Alternating least squares for personalized ranking. ~--- 2012. ~--- URL: \url{https://www.researchgate.net/publication/254464370_Alternating_least_squares_for_personalized_ranking} (дата обр. 2.05.2022)
 }
 
 \bibitem{ALS:recsys}{
-	Gábor Takács, István Pilászy, Domonkos Tikk,
-	Applications of the Conjugate Gradient Method for Implicit
-	Feedback Collaborative Filtering,
-	DOI: 10.1145/2043932.2043987
+	\textit{Takács, G., Pilászy, I., Tikk, D. }
+	Applications of the conjugate gradient method for implicit feedback collaborative filtering.// Proceedings ~--- 5th ACM conference on Recommender systems, 2011. Association for Computing Machinery, New York, NY, USA, 297–300.
 }
 
 \bibitem{BPR:1205}{
-	Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme,
-	Applications of the Conjugate Gradient Method for Implicit
-	Feedback Collaborative Filtering,
-	https://arxiv.org/pdf/1205.2618.pdf 
-	DOI: 10.48550/ARXIV.1205.2618
+	\textit{Rendle, S., Freudenthaler, C., Ganther Z., Schmidt-Thieme, L.}
+	BPR: Bayesian Personalized Ranking from Implicit Feedback. ~--- 2012. ~--- URL:\url{https://arxiv.org/pdf/1205.2618.pdf} (дата обр. 15.05.2022)
 }
 
 \bibitem{AE:a1}{
-	Oleksii Kuchaiev, Boris Ginsburg,
-	Training Deep AutoEncoders for Collaborative Filtering,
-	https://arxiv.org/abs/1708.01715 
-	DOI: 10.48550/ARXIV.1708.01715
+	\textit{Kuchaiev, O., Ginsburg, B.},
+	Training Deep AutoEncoders for Collaborative Filtering. ~--- 2017. ~---
+	URL: \url{https://arxiv.org/abs/1708.01715 } (дата обр. 14.05.2022)
 }
 
 \bibitem{IP:a1}
 {
-	Documentation of scikit-learn library, nearest neighbour module.
-	https://scikit-learn.org/stable/modules/neighbors.html
+	Documentation of "scikit-learn" \ library, Nearest Neighbour module.
+	URL: \url{https://scikit-learn.org/stable/modules/neighbors.html} (дата обр. 11.05.2022)
 }
 
 \bibitem{IP:a2}
 {
-	Maneewongvatana, Songrit and Mount, David M.,
-	Analysis of Approximate Nearest Neighbor
-	Searching with Clustered Point Sets
-	DOI: 10.48550/ARXIV.CS/9901013
+	\textit{Maneewongvatana, S., Mount, D. M.},
+	Analysis of approximate nearest neighbor searching with clustered point sets, ~--- 1999 ~---
+	URL: \url{https://arxiv.org/abs/cs/9901013} (дата обр. 10.04.2022)
 }
 
 \bibitem{DRN:a1}{
-	Ali Elkahky, Yang Song, Xiaodong He,
-	A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems,
-	https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf 
-}
-
-\bibitem{INTRO:a1}
-{
-	https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-keep-up-with-consumers
+	\textit{Elkahky A., Song, Y., He, X.},
+	A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems. //
+	Proceedings ~--- 24th International Conference on World Wide Web, 2015. International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, CHE, 278–288. URL: \url{https://doi.org/10.1145/2736277.2741667} (дата обр. 20.05.2022)
+	
 }
 
 \end{thebibliography}
