@@ -20,7 +20,5 @@
 \contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{34}{}%
 \contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{35}{}%
 \contentsline {section}{Заключение}{37}{}%
-\contentsline {section}{Литература}{38}{}%
-\contentsline {section}{Приложения}{40}{}%
-\contentsline {subsection}{\numberline {1.\relax }Приложение 1. Ссылка на код проекта.}{40}{}%
-\contentsline {subsection}{\numberline {2.\relax }Приложение 2. Ссылка на видеопрезентацию МКО-2022.}{40}{}%
+\contentsline {section}{Литература}{39}{}%
+\contentsline {section}{Приложения}{41}{}%
