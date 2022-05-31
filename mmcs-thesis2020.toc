@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {3.5.\relax } Модель AE}{25}{}%
 \contentsline {subsection}{\numberline {3.6.\relax }Модель IP}{27}{}%
 \contentsline {subsection}{\numberline {3.7.\relax }Модель UIP}{31}{}%
-\contentsline {subsection}{\numberline {3.8.\relax }Модель DRN}{32}{}%
+\contentsline {subsection}{\numberline {3.8.\relax }Модель DRN}{31}{}%
 \contentsline {subsection}{\numberline {3.9.\relax }Сравнительный анализ моделей}{34}{}%
 \contentsline {section}{\numberline {4.\relax }Создание ансамбля моделей}{34}{}%
 \contentsline {section}{Заключение}{37}{}%
